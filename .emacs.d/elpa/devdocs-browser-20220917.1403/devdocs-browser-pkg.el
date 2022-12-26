@@ -1,0 +1,2 @@
+;;; Generated package description from devdocs-browser.el  -*- no-byte-compile: t -*-
+(define-package "devdocs-browser" "20220917.1403" "Browse devdocs.io documents using EWW" '((emacs "27.1")) :commit "badbb9cb57522cc0e002a32fe385f7ad1e929665" :authors '(("blahgeek" . "i@blahgeek.com")) :maintainer '("blahgeek" . "i@blahgeek.com") :keywords '("docs" "help" "tools") :url "https://github.com/blahgeek/emacs-devdocs-browser")

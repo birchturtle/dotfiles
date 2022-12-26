@@ -1,0 +1,2 @@
+;;; Generated package description from greek-polytonic.el  -*- no-byte-compile: t -*-
+(define-package "greek-polytonic" "20190303.1358" "Quail package for inputting polytonic Greek" '((emacs "24")) :commit "114cba0f57cc077871693c799b807df2292341ec" :authors '(("Johannes Choo" . "jhanschoo@gmail.com")) :maintainer '("Johannes Choo" . "jhanschoo@gmail.com") :keywords '("i18n" "multilingual" "input method" "greek") :url "https://github.com/jhanschoo/greek-polytonic")

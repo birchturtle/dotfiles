@@ -1,0 +1,2 @@
+;;; Generated package description from dilbert.el  -*- no-byte-compile: t -*-
+(define-package "dilbert" "20211118.1512" "View Dilbert comics" '((emacs "26.1") (enlive "0.0.1") (dash "2.19.1")) :commit "3e9a39717490be4d5c14211a47fcd8588ef668af" :authors '(("Daniils Petrovs" . "thedanpetrov@gmail.com")) :maintainer '("Daniils Petrovs" . "thedanpetrov@gmail.com") :keywords '("multimedia" "news") :url "https://github.com/DaniruKun/dilbert-el")

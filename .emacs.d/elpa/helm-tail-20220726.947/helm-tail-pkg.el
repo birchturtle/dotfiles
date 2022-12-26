@@ -1,0 +1,2 @@
+;;; Generated package description from helm-tail.el  -*- no-byte-compile: t -*-
+(define-package "helm-tail" "20220726.947" "Read recent output from various sources" '((emacs "25.1") (helm "2.7.0")) :commit "8dc44a87fa1a52199e43b73b55c8ef8fe8069e79" :authors '(("Akira Komamura" . "akira.komamura@gmail.com")) :maintainer '("Akira Komamura" . "akira.komamura@gmail.com") :keywords '("maint" "tools") :url "https://github.com/akirak/helm-tail")

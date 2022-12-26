@@ -1,0 +1,2 @@
+;;; Generated package description from rails-routes.el  -*- no-byte-compile: t -*-
+(define-package "rails-routes" "20220126.1631" "Search for and insert rails routes" '((emacs "27.2") (inflections "1.1")) :commit "eab995a9297ca5bd9bd4f4c2737f2fecfc36def0" :authors '(("Otávio Schwanck" . "otavioschwanck@gmail.com")) :maintainer '("Otávio Schwanck" . "otavioschwanck@gmail.com") :keywords '("tools" "languages") :url "https://github.com/otavioschwanck/rails-routes")

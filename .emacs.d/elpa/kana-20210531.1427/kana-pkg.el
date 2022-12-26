@@ -1,0 +1,2 @@
+;;; Generated package description from kana.el  -*- no-byte-compile: t -*-
+(define-package "kana" "20210531.1427" "Learn Japanese hiragana and katakana" '((emacs "24.4") (dash "2.17.0")) :commit "d3d550aad67ef8625b3860598bf3622f5b2a7d32" :authors '(("Damon Chan" . "elecming@gmail.com")) :maintainer '("Damon Chan" . "elecming@gmail.com") :keywords '("tools") :url "https://github.com/chenyanming/kana")
