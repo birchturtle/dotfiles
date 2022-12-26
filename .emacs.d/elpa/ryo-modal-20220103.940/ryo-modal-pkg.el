@@ -1,2 +1,0 @@
-;;; Generated package description from ryo-modal.el  -*- no-byte-compile: t -*-
-(define-package "ryo-modal" "20220103.940" "Roll your own modal mode" '((emacs "25.1")) :commit "0a61eed4d2917422d6401b6abe2037c26dab658a" :authors '(("Erik Sjöstrand" . "sjostrand.erik@gmail.com")) :maintainer '("Erik Sjöstrand" . "sjostrand.erik@gmail.com") :keywords '("convenience" "modal" "keys") :url "http://github.com/Kungsgeten/ryo-modal")

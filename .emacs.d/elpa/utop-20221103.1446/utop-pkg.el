@@ -1,2 +1,0 @@
-;;; Generated package description from utop.el  -*- no-byte-compile: t -*-
-(define-package "utop" "20221103.1446" "Universal toplevel for OCaml" '((emacs "26") (tuareg "2.2.0")) :commit "c596ac7b88ce0686bc8bf82dfa77fc055cdbfbef" :authors '(("Jeremie Dimino" . "jeremie@dimino.org")) :maintainer '("Jeremie Dimino" . "jeremie@dimino.org") :keywords '("ocaml" "languages") :url "https://github.com/ocaml-community/utop")

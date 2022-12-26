@@ -1,3 +1,0 @@
-(global-set-key "\t" 'company-complete)
-(add-to-list 'auto-mode-list '("\\.rb\\'" . company-mode) t)
-(add-to-list 'auto-mode-list '("\\.go\\'" . company-mode) t)
