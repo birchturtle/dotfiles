@@ -15,3 +15,6 @@ filetype indent on
 filetype plugin on
 
 syntax on
+
+set tabstop=4
+AirlineTheme ayu_light
